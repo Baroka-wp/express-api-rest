@@ -1,15 +1,66 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
 
-The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
+<br />
 
-## Deployment
+# Node Api
 
-See https://render.com/docs/deploy-node-express-app or follow the steps below:
+> The REST FULL API Using NODE EXPRESS MONGODB and NODEMOON. This API allow to create , get, edit and delete a list of students
 
-Create a new web service with the following values:
-  * Build Command: `yarn`
-  * Start Command: `node app.js`
+## LOOM VIDEO PRESENTING
+[Watch the presentation of the projet on Loom](#)
 
-That's it! Your web service will be live on your Render URL as soon as the build finishes.
+## Built With
+
+- Html
+- Css
+- Js
+- Linter
+- Webpack
+- NODEMOON
+- MONGODB
+- EXPRESS
+
+## Authors
+
+👤 **Author : IROTORI Baroka**
+
+- GitHub: [@githubhandle](https://github.com/Baroka-wp)
+- Twitter: [@twitterhandle](https://twitter.com/IrotoriB)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/baroka)
+
+
+## Collaborators
+
+### Run local server
+
+- Clone the repos
+```
+git clone https://github.com/Baroka-wp/node_api
+
+cd node_api
+
+// install dependencies
+npm i
+
+// run server
+npm start
+```
+
+### Deployment
+- github page
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
