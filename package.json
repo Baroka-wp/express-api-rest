@@ -1,7 +1,7 @@
 {
-  "name": "Node Api",
+  "name": "student api",
   "version": "1.0.0",
-  "description": "Express API",
+  "description": "Express ",
   "main": "app.js",
   "repository": "https://github.com/render-examples/express-api-rest",
   "author": "Render Developers",
