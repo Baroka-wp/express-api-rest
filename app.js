@@ -13,5 +13,5 @@ app.use('/', studentsRoutes)
 
 // Serve the files on port 8080.
 app.listen(port, () => {
-  console.log('Listening on port 8080!\n');
+  console.log('Listening on port 3001!\n');
 });
